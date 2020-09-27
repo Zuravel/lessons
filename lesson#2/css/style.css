@@ -1,0 +1,28 @@
+/* основные css правила */
+body {
+    background-color: indianred;
+}
+img {
+    width: 100px;
+    height: 200px;
+}
+p {
+    color: #1125ba;
+    font-size: 50px;
+}
+
+/* объявление классов и обращение к ним */
+.name {
+    font-size: 40px;
+}
+.blue {
+    color: blue;
+}
+.description {
+    color: lightblue;
+}
+
+/* id - это универсалоьный идентификатор */
+#header {
+    color: lightseagreen;
+}
