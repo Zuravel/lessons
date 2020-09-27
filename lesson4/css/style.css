@@ -1,0 +1,56 @@
+
+
+table {
+    width: 1000px;
+    border: 2px solid black;
+    text-align: center;
+}
+p {
+    color: white;
+}
+img {
+    border-radius: 50%;
+    width: 90px;
+    height: 60px;
+    flex: center;
+}
+th{
+    background-color:black;
+    height: 10px;
+}
+.name{
+    width: 100px;
+    height: 80px;
+}
+.color{
+    width: 100px;
+    height: 80px;
+}
+.wow
+{
+    width: 600px;
+    height: 80px;
+}
+.end
+{
+    width: 300px;
+    height: 80px;
+}
+.clo{
+    background-color: orangered;
+}
+.clg{
+    background-color: seagreen;
+}
+.clb{
+    background-color: blue;
+}
+.cly{
+    background-color: yellow;
+}
+.clr{
+    background-color: red;
+}
+.clh{
+    background-color: hotpink;
+}
